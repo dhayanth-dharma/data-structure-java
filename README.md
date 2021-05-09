@@ -1,4 +1,4 @@
-# data-structure-java
+# Data-structure-java
 
 # Data Structure and
 
