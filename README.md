@@ -4,7 +4,7 @@
 
 # Algorithms
 
-```
+
 Student name- D. Dhayananth
 Submission date- 11.06.
 
